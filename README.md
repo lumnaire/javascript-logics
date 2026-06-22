@@ -28,7 +28,7 @@ This repository is structured around my study path, which focuses on both fundam
 ### Data Structures & Algorithms
 - Recursion: Solving problems by calling the function itself.
 
-- Array: Working with ordered lists of data.
+- Array: Working with ordered lists of data..
 
 - Stack: Implementing LIFO (Last-In, First-Out) data structures.
 
